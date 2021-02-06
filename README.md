@@ -20,3 +20,5 @@ Then create a .7z, .zip, or .rar archive containing the directory of the server 
 ## The Easy Way
 
 Just watch this really simple video and dump your files into the [Google Form](https://forms.gle/4TrfWZpsNWqDgGKA8) I made.
+
+<iframe width="1903" height="778" src="https://www.youtube.com/embed/ji_iYyjpzXQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
