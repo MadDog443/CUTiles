@@ -21,4 +21,4 @@ Then create a .7z, .zip, or .rar archive containing the directory of the server 
 
 Just watch this really simple video and dump your files into the [Google Form](https://forms.gle/4TrfWZpsNWqDgGKA8) I made.
 
-https://youtu.be/ji_iYyjpzXQ
+[![Contributing VoxelMap Data](https://i.ytimg.com/vi_webp/ji_iYyjpzXQ/maxresdefault.webp)](https://youtu.be/ji_iYyjpzXQ)
