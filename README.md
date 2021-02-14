@@ -3,8 +3,6 @@ CivUniverse Map Tiles
 
 ## How to contribute VoxelMap Tile Data
 
-> Note: All tile data is using the [Liteloader](https://www.liteloader.com/explore/docs/user:install:forge) format.
-
 > Note: that this will contain only the terrain data, and no waypoints.
 
 First of all, quit the server and wait a bit, so the map data files are written to your disk. Now open the map data cache directory:
