@@ -17,6 +17,6 @@ Then create a .7z, .zip, or .rar archive containing the directory of the server 
 
 ## The Easy Way
 
-Just watch this really simple [video](https://youtu.be/ji_iYyjpzXQ) and dump your files into the [Google Form](https://forms.gle/4TrfWZpsNWqDgGKA8) I made.
+Just watch this really simple [video](https://www.youtube.com/watch?v=doJQPbuxdWQ&ab_channel=TWINKIEminer) and dump your files into the [Google Form](https://forms.gle/4TrfWZpsNWqDgGKA8) or go drop them in the [Offical Discord](https://discord.gg/8ffpFyA63H).
 
-[![Contributing VoxelMap Data](https://i.imgur.com/W9VbFgw.png)](https://youtu.be/ji_iYyjpzXQ)
+[![Contributing VoxelMap Data](https://i.imgur.com/iBcOSJi.png)](https://www.youtube.com/watch?v=doJQPbuxdWQ&ab_channel=TWINKIEminer)
