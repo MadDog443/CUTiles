@@ -1,4 +1,4 @@
--CivUniverse Map Tiles
+CivUniverse Map Tiles
 ==========
 
 ## How to contribute VoxelMap Tile Data
